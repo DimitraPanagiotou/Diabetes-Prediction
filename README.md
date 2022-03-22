@@ -1,7 +1,7 @@
 # Diabetes Prediction
 
 ## Summary 
-We implement a user-friendly web application that consists of a questionnaire with easy questions in order to predict whether there is a possibility to develop diabetes. This app aims to inform on time people who are at risk to develop diabetes. 
+We implement a user-friendly web application that uses a questionnaire with easy questions in order to predict whether there is a possibility for a person to develop diabetes. This app aims to inform on time people who are at risk to develop diabetes. 
 
 In no case should replace medical examination.
 
